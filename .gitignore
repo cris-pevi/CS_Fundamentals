@@ -1,0 +1,13 @@
+# Archivos binarios de compilación
+*.out
+
+# Archivos temporales de compiladores
+*.o
+*.obj
+
+# Configuración de VSCode
+.vscode/
+
+# Archivos de backup o swap (Para Vim)
+*~
+*.swp
